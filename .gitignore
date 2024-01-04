@@ -1,0 +1,2 @@
+poetry_test_pack/dist/*
+*.pyc
